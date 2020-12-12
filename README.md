@@ -1,3 +1,5 @@
+[![codecov](https://codecov.io/gh/DeividZavala/testing-coverage/branch/main/graph/badge.svg?token=UDC8FM90SN)](https://codecov.io/gh/DeividZavala/testing-coverage)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
