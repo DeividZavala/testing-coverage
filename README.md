@@ -1,4 +1,4 @@
-[![codecov](https://codecov.io/gh/DeividZavala/testing-coverage/branch/main/graph/badge.svg?token=UDC8FM90SN)](https://codecov.io/gh/DeividZavala/testing-coverage)
+[![codecov](https://codecov.io/gh/DeividZavala/testing-coverage/branch/master/graph/badge.svg?token=UDC8FM90SN)](https://codecov.io/gh/DeividZavala/testing-coverage)
 
 # Getting Started with Create React App
 
